@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.vktask1.app-mergeDebugResources-57:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/gusar96/.gradle/caches/8.11.1/transforms/bc256a5edcad594bc8a91695d2449191/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#2A2A2A</color>
+    <color name="item_even_bg">#FF0000</color>
+    <color name="item_odd_bg">#0000FF</color>
+    <color name="item_text_on_even">#FFFFFFFF</color>
+    <color name="item_text_on_odd">#FFFFFFFF</color>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="grid_content_padding">16dp</dimen>
+    <dimen name="grid_item_corner_radius">8dp</dimen>
+    <dimen name="grid_item_spacing">8dp</dimen>
+    <dimen name="list_bottom_padding">96dp</dimen>
+    <integer name="grid_span_count">3</integer>
+    <string name="app_name">VK Task</string>
+    <string name="fab_add">Добавить</string>
+    <string name="item_content_description">Элемент %1$d</string>
+    <style name="Theme.VkTask1App" parent="Theme.Material3.DayNight.NoActionBar"/>
+</resources>

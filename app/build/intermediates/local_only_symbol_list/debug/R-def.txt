@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+color item_even_bg
+color item_odd_bg
+color item_text_on_even
+color item_text_on_odd
+dimen fab_margin
+dimen fab_size
+dimen grid_content_padding
+dimen grid_item_corner_radius
+dimen grid_item_spacing
+dimen list_bottom_padding
+integer grid_span_count
+string app_name
+string fab_add
+string item_content_description
